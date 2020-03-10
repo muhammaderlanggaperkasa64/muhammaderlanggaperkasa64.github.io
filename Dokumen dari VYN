@@ -1,0 +1,28 @@
+<html>
+<head>
+	<title>my website</title>
+</head>
+<body bgcolor="grey">
+<u><h1>Biodata</h1></u>
+
+<table bgcolor="white">
+
+
+<tr>
+<td>Nama</td><td>: Erlangga</td></tr>
+<tr><td>Jenis Kelamin</td><td>: Laki laki</td></tr><tr>
+<tr><td>Tempat, Tanggal Lahir  </td><td>: Cilacap 21 Desember 2002</td></tr>
+<td>Agama</td><td>: Islam</td>
+</tr>
+<tr><td>Status</td><td>: Pelajar</td></tr>
+<tr><td>Kewarganegaraan</td><td>: WNI</td></tr>
+<td>Alamat</td><td>: Komplek Abri Sukasari No. 67 RT/RW 01/03 ,Kelurahan Lawanghintung Kecamatan Bogor Selatan,Kota Bogor,Jawa Barat</td>
+</tr>
+<td>No.Telephone </td><td>: 0889 - 7602 - 5964</td>
+</tr>
+<td>Email</td><td>: merlanggap64@smakbo.sch.id</td>
+</tr>
+</table><br><br>
+<center>
+<img src="https://raw.githubusercontent.com/muharaasa/random/master/IMG_20200309_150400.JPG" height="250" width="250">
+
