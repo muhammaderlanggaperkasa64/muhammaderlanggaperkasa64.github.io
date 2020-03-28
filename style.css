@@ -1,0 +1,30 @@
+ 
+
+body{background: grey;} 
+
+p{font-family: calibri;
+font-size: 12pt;
+color: magenta;}
+
+h1{color: red;
+    font-size: 32pt;
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;}
+
+img{
+    
+    border: 2px solid #ffffff;
+
+border-radius: 13px;
+
+width: 250px;
+
+height: 250px;
+}
+
+
+	
+.erlanggatamfns{
+background: black;
+}
+
